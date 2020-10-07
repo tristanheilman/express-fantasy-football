@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'b81a30ca-cebd-42b7-95c5-6a4d7d456187'
 
   # Web app name
-  webAppName: 'Express-Fantasy-Football'
+  webAppName: 'react-fantasy-football'
 
   # Environment name
-  environmentName: 'Express-Fantasy-Football-Env'
+  environmentName: 'react-fantasy-football-env'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
